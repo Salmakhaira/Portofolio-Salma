@@ -1,0 +1,102 @@
+img{
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    background-color: azure;
+} 
+.opening{
+    text-align: center;
+    text-shadow: 4px 4px 10px black;
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(95, 181, 194);
+    padding: 100px;
+}
+table, td, th{
+    background-color: beige;
+    border: 1px solid black;
+    border-collapse: separate;
+    text-align: center;
+}
+th{
+    padding: 2vw;
+    text-align: center;
+}
+td{
+    padding: 2vw;
+    text-align: center;
+}
+form{
+    background-color: antiquewhite;
+}
+.contact{
+    background-color: antiquewhite;
+    padding: 50px;
+}
+.warna{
+    background-color: antiquewhite;
+}
+h4{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+#satu{
+    text-align: center;
+}
+#dua{
+    text-align: center;
+}
+#tiga{
+    text-align: center;
+}
+.lang{
+    text-align: center;
+}
+div{
+    text-align: center;
+    align-items: center;
+    justify-content: first baseline;
+    background-color: antiquewhite;
+}
+nav{
+    background-color: rgb(106, 106, 110);
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    background-color: rgb(128, 123, 116);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.view{
+    background-color: rgb(95, 181, 194);
+    padding: 100px;
+}
+h4{
+    background-color: rgb(128, 123, 116);
+    padding: 15px;
+}
+article{
+    background-color: rgb(149, 215, 225);
+    padding: 5px;
+}
+.summary{
+    background-color: antiquewhite;
+    padding: 5px;
+}
+.study{
+    display: flex;
+    justify-content: space-between;
+}  
+.study1{
+    display: flex;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+
